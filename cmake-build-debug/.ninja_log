@@ -1,0 +1,15 @@
+# ninja log v6
+49	641	7433631029294096	CMakeFiles/ContactManager.dir/contacts.cpp.obj	d1579dd1af0f8211
+19	414	7433633437704155	CMakeFiles/ContactManager.dir/contacts.cpp.obj	d1579dd1af0f8211
+13	430	7433634295791144	CMakeFiles/ContactManager.dir/contacts.cpp.obj	d1579dd1af0f8211
+432	604	7433634299971467	ContactManager.exe	bc0397b9bfccaa8d
+37	587	7433640467214155	CMakeFiles/ContactManager.dir/contacts.cpp.obj	d1579dd1af0f8211
+589	768	7433640472723754	ContactManager.exe	bc0397b9bfccaa8d
+17	486	7433645424271304	CMakeFiles/ContactManager.dir/contacts.cpp.obj	d1579dd1af0f8211
+488	657	7433645428986110	ContactManager.exe	bc0397b9bfccaa8d
+26	604	7433651878611119	CMakeFiles/ContactManager.dir/contacts.cpp.obj	d1579dd1af0f8211
+605	832	7433651884402758	ContactManager.exe	bc0397b9bfccaa8d
+26	553	7433652379665093	CMakeFiles/ContactManager.dir/contacts.cpp.obj	d1579dd1af0f8211
+555	722	7433652384957792	ContactManager.exe	bc0397b9bfccaa8d
+29	543	7433653040313559	CMakeFiles/ContactManager.dir/contacts.cpp.obj	d1579dd1af0f8211
+545	715	7433653045464093	ContactManager.exe	bc0397b9bfccaa8d

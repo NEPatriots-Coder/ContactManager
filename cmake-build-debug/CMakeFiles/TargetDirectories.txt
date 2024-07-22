@@ -1,0 +1,3 @@
+C:/Users/lamarwells/OneDrive - Rasmussen, Inc/SummerQuarter1/C++/Week4Folder/CodeSubmissionWeek4/ContactManager/cmake-build-debug/CMakeFiles/ContactManager.dir
+C:/Users/lamarwells/OneDrive - Rasmussen, Inc/SummerQuarter1/C++/Week4Folder/CodeSubmissionWeek4/ContactManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lamarwells/OneDrive - Rasmussen, Inc/SummerQuarter1/C++/Week4Folder/CodeSubmissionWeek4/ContactManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
